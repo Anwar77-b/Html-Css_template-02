@@ -238,6 +238,7 @@ header ul a:hover {
   }
   .landing__card__content {
     max-width: 100%;
+    text-align: center;
   }
 }
 .landing__card__content h2 {
