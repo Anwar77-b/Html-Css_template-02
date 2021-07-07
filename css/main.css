@@ -231,7 +231,7 @@ header ul a:hover {
     max-width: 100%;
   }
 }
-@media (orientation: landscape)  {
+@media (max-width: 767px) and (orientation: landscape)  {
   .landing__card {
     width: 100%;
     margin-top: 1rem;
